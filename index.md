@@ -8,7 +8,7 @@ layout: default
 
 Some of us are developers, some writes Go code in the weekend for fun. We even have Gophers who contributes back to *the source*: [creators of Go framework](https://github.com/astaxie/beego) and [book author](http://www.manning.com/chang/).
 
-We come together to talk about technology, our love/have relationships with Go and generally, have a good time.
+We come together to talk about technology, our love/hate relationships with Go and generally, have a good time.
 
 **Catch us on:**
 
