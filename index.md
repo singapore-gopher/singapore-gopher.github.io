@@ -38,7 +38,7 @@ And one more entertaining talk
 ### Catch us
 
     Where:    Viki (Block 59 Mohamed Sultan Road, #04-08)
-    When:     Apr 14th, 7:30 PM (SGT) 
+    When:     Apr 14th, 7:00 PM (SGT) 
 
 ****
 
