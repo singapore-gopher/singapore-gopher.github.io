@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Singpore-gopher](http://singapore-gopher.github.io) is a community of programmer, hobbyist who use Golang in Singapore.
+[Singpore-gopher](http://singapore-gopher.github.io) is a community of programmers and hobbyists who use Go in Singapore.
 
 ### Who we are
 
